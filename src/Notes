@@ -1,0 +1,17 @@
+<!-- 
+Component
+
+Course library- library.js
+    -librarycorse.js
+        -icon.js
+        -arrow.js
+        -actionbutton.js
+    
+schedule.js
+    -scheduleCourse.js
+    -gradient.js
+    -progressTracker.js
+
+    stopped at 10:52 on 'React JS Class Scheduling Application Overveiw'
+    Pushed up to git
+-->
